@@ -72,7 +72,7 @@
 		loadscene(get(startscene), null, MERGE);
 		if(startactions !== null, startactions() );
 	</action>
-	<!--  <autorotate enabled="true" speed="3.0" /> -->
+	<autorotate enabled="true" speed="3.0" />
 
 	<plugin name="logo" url="images/logo.png" keep="true" x="10" y="10" />
 	<scene name="scene_1" title="1" onstart="" thumburl="panos/1.tiles/thumb.jpg" lat="" lng="" heading="">
